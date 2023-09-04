@@ -1,0 +1,15 @@
+body,
+html {
+    height: 100%;
+}
+
+div.main {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+div.main h1 {
+    margin: 0
+}
